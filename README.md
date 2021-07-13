@@ -16,3 +16,6 @@ This repository contains all of the notes taken by [Taejin Jung](https://github.
   * [Day 2](https://github.com/FrancisBourgouin/lectures-2021-east-jun22/tree/main/w2d2)
   * [Day 3](https://github.com/lovemorejokonya/lectures/tree/main/june-21-2021-east/W2D3)
   * [Day 4](https://github.com/DominicTremblay/w2d4-lecture/tree/demo-east-june21-2021)
+  
+* [Week 3]
+* [Week 4]
