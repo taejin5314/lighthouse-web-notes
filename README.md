@@ -18,4 +18,9 @@ This repository contains all of the notes taken by [Taejin Jung](https://github.
   * [Day 4](https://github.com/DominicTremblay/w2d4-lecture/tree/demo-east-june21-2021)
   
 * [Week 3]
+  * [Day 1]
+  * [Day 2]
+  * [Day 3]
+  * [Day 4]
+  
 * [Week 4]
