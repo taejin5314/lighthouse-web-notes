@@ -25,3 +25,4 @@ This repository contains all of the notes taken by [Taejin Jung](https://github.
 - [Week 5]
 - [Week 6]
 - [Week 7]
+- [Week 8]
