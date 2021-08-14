@@ -32,3 +32,8 @@ This repository contains all of the notes taken by [Taejin Jung](https://github.
   - [Day 4]
   - [Day 5]
 - [Week 9]
+  - [Day 1]
+  - [Day 2]
+  - [Day 3]
+  - [Day 4]
+  - [Day 5]
